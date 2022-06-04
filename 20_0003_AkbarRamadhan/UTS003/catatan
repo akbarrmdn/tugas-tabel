@@ -1,0 +1,51 @@
+Catatan:
+
+Jika anda ingin menambahkan komentar pada dokumen HTML,maka tulislah Tag <!....................>,
+
+misal:
+	<!perubahan terakhir 27/6/96>
+
+Table
+Table Properties : 
+-BORDER =akan membverikan garis permbatas paa tabel.
+-CELLPADDING= akan menset jarak dalam piksel antara 				  batas dalam dan teksnya.
+-ALIGN = penjajaran rata kanan , kiri atau tengah.
+-BGCOLOR= akan memberikan efek warna pada tabel
+-ROWSPAN= untuk menset jumlah baris ke bwh 
+-COLSPAN= untuk menset jumlah kolom ke kanan
+-WIDTH= untuk menset batas lebar / panjang tabel
+-HEIGHT= untuk menset batas tinggi tabels
+
+Image
+Image properties :
+HSPACE : memberikan spasi di kanan dan kiri gambar
+VSPACE : memberikan spasi di atas dan dibwh gambar
+WIDTH	: untuk menset batas lebar/panjang gambar
+HEIGHT	: untuk menset tinggi gambar
+BORDER	: memberikan garis batas yang mengelilingi gambar.
+
+
+lINK 
+	tag link pada HTML:
+	<a href=url/filename>.......</a>
+
+	Catatan:
+	HREF= Hypertext REFerence
+
+Marquee
+ 	tag marquee pada HTML:
+ 	<marquee behavior=...>.....</marquee>
+
+ 	Style Maquee: "behavior=...."
+ 	ALTERNATE "MEMANTUL"
+ 	SCROLL  "BERGERAK KEBAGIAN SISI YANG LAIN"
+ 	SLIDE "BERGERAK TERSENDAT ATAU DIAM"
+
+ 	Direction Maquee:
+ 	Down
+ 	Left
+ 	Right
+ 	Up
+
+ 	
+ 	

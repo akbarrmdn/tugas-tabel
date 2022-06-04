@@ -1,0 +1,20 @@
+fORM
+
+	Awal formulir ditandain dengan tag <form>, dan berisi dua kata kunci: Method dan action
+
+catatan :
+action untuk menentukan aksi yang akan dilakukan saat data dikirim;
+method metode pengiriman data 
+
+<form name=nama form method=post/get action=nama file/email>
+
+catatan :
+POST atau GET meruapakan method yang digunakan untuk mengirim data ke suatu server untuk diolah 
+
+Button 
+<input type=submit/reset value=caption>
+
+Catatan:
+type=submit, akan mendefinisikan sebagai tombol untuk menyerahkan umpan balik.
+
+type=reset, akan mendefinisikan tombol untuk menghapus isi formulir
